@@ -16,6 +16,11 @@ import lombok.NoArgsConstructor;
 @AllArgsConstructor
 @Entity
 public class Pessoa {
+	
+	
+	
+	
+	
 
     @Id
     @GeneratedValue(strategy = GenerationType.SEQUENCE)
